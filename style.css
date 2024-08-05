@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color:azure ;
+}
+h1{
+    text-align: center;
+    font-size: xxx-large;
+}
+hr {
+    color:black;
+    margin: 0.3rem;
+    border: 0.5px solid black;
+    width: 99%;
+}
+.hori {
+    height:0.3rem;
+    border: 2px solid black;
+    background-color: black;
+}
+div {
+    display: inline-block;
+    text-align: justify;
+}
+b {
+    margin: 1rem;
+    font-size: xx-large;
+}
+.lc{
+    text-align: left;
+    width: 32%;
+    vertical-align: text-top;
+}
+.left{
+    margin: 1rem;
+    text-align: justify;
+    
+}
